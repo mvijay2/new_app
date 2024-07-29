@@ -226,4 +226,6 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
+fixtures=[
+    "Item Group","Item Tax Template","Company","Global Defaults","Stock Entry","Website Item",
+]
